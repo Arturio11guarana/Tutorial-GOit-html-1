@@ -1,0 +1,57 @@
+body{
+color: #555555;
+background-color: #fff;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.header{
+    background-color: dimgrey;  
+}
+
+.header-link{
+color: #fff;
+}
+
+.header-link:hover {
+color: #ff6c00;
+}
+
+.button-light {
+    background-color: transparent;
+ color: #fff;
+ border: 1px solid #ff6c00;
+ border-radius: 25px;
+ cursor: pointer;
+}
+
+.button-light:hover {
+background-color: #ff6c00;
+}
+
+.socials-link {
+color: #303030;
+}
+
+.socials-link {
+    color: #ff6c00;
+}
+
+.hero-title {
+color: #fff;
+}
+
+.hero-text {
+ color: #9da4bd;
+}
+
+.hero-tagline {
+ color: rgba(157, 164, 189, 0.6);
+
+}
+
+.carusel-batton {
+    color: #fff;
+}
